@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 31,
-    "active_layer_preset": "All Layers",
+    "active_layer": 0,
+    "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -59,7 +59,7 @@
       36,
       37
     ],
-    "visible_layers": "3ffff_80000001"
+    "visible_layers": "4ffff_ffffffff"
   },
   "meta": {
     "filename": "pimentero.kicad_prl",
@@ -68,39 +68,15 @@
   "project": {
     "files": [
       {
-        "name": "pimentero.kicad_pro",
+        "name": "../../../../../home/ola/",
         "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 1880,
-          "pos_y": 547,
-          "size_x": 1048,
-          "size_y": 1016
-        }
-      },
-      {
-        "name": "pimentero.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 2203,
-          "pos_y": 547,
-          "size_x": 500,
-          "size_y": 363
-        }
-      },
-      {
-        "name": "pimentero.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 1760,
-          "pos_y": 873,
-          "size_x": 502,
-          "size_y": 363
+          "pos_x": 1296,
+          "pos_y": 657,
+          "size_x": 1290,
+          "size_y": 396
         }
       }
     ]
