@@ -3,7 +3,7 @@
 Echoplex preamp SMD PCB
 
 * v0.1: initial import, unverified
-* v0.2: added optional volume pot
+* v0.2: added optional volume pot, verified
 
 ![Front](https://raw.githubusercontent.com/rockola/pimentero/master/images/pimentero-v0.2-front.png)
 ![Back](https://raw.githubusercontent.com/rockola/pimentero/master/images/pimentero-v0.2-back.png)
