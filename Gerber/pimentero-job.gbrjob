@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-2965-g3673c2369)"
+      "Version": "6.0.0+dfsg1-2"
     },
-    "CreationDate": "2020-08-26T10:35:25+03:00"
+    "CreationDate": "2022-01-11T21:31:27+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -54,12 +54,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pimentero-F_SilkS.gbr",
+      "Path": "pimentero-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pimentero-B_SilkS.gbr",
+      "Path": "pimentero-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
